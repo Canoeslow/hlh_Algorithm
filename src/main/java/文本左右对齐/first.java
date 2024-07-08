@@ -9,7 +9,7 @@
     *
     * 文本的最后一行应为左对齐，且单词之间不插入额外的空格。
 */
-//
+//贪心算法
 package 文本左右对齐;
 
 import java.util.ArrayList;
